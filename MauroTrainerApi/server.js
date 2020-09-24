@@ -15,4 +15,4 @@ requireDir('./src/models');
 //rotas
 app.use('/api', require('./src/routes/routes'));
 
-app.listen(3001);
+app.listen(3002);
